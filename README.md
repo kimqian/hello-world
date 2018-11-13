@@ -1,5 +1,5 @@
-# hello-world
-test repo
+## _**ATTENTION CITIZENS**_
 
-GREETINGS EARTHLINGS
-I AM FROM WHAT YOU WOULD CALL PLANET XEBES.
+*This is an important message from Lord Zorkhan*
+
+**All humans with a social security # ending with 5 will be terminated from the _-VIRTEARTHSIM-_ program immediately. This is to ensue quality programming. Thank you for your cooperation.**
